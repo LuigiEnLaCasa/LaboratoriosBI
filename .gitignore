@@ -1,0 +1,31 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Entornos virtuales
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb_convert/
+
+# Archivos de logs y temporales
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Configuración de editores
+.vscode/
+.idea/
+*.code-workspace
